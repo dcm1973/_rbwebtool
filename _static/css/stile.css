@@ -1,0 +1,26 @@
+        h1 {
+            color: blue;
+            border: 1px solid black;
+        }
+        h2 {
+            color: red;
+            border: 1px solid black;
+        }
+
+        ol {
+            color: green;
+            }
+        #welcome {
+            color: green;
+        }
+
+        table {
+            border: 1px solid black;
+             border-collapse: collapse;
+        }
+
+        td, th {
+            border: 1px dashed black;
+            padding: 5px;
+            text-align;
+        }
